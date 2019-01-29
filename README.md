@@ -5,7 +5,7 @@ _Authors: Philippe Burgelin, Côme Cothenet, Gauthier Perrod, Manuel Pichon
 
 Decrire ici les copains
 
-<img src="http://ecuip.lib.uchicago.edu/multiwavelength-astronomy/images/gamma-ray/impact/ptolemy_cosmos.jpg" alt="Drawing" style="width: 700px;"/>
+<img src="https://timedotcom.files.wordpress.com/2018/04/national-beer-day-ipa.jpg" alt="Drawing" style="width: 700px;"/>
 
 #### Set up
 
