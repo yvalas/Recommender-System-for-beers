@@ -1,6 +1,5 @@
 # RAMP starting kit on Recommender System for beers
 
-[![Build Status](https://travis-ci.org/ramp-kits/solar_wind.svg?branch=master)](https://travis-ci.org/ramp-kits/solar_wind)
 
 _Authors: Philippe Burgelin, Côme Cothenet, Gauthier Perrod, Manuel Pichon
 
