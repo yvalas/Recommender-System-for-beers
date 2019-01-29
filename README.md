@@ -4,7 +4,7 @@
 _Authors: Philippe Burgelin, Côme Cothenet, Gauthier Perrod, Manuel Pichon_
 
 The goal of this challenge is to find ways to predict which would be the best beer to to suggest to an user of the recommandation system.
-A good exemple could be Spotify we could citate spotify which dethroned Deezer into music streaming partly thanks to its recommender system.
+A good exemple could be Spotify which dethroned Deezer into music streaming partly thanks to its recommender system.
 
 
 
