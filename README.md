@@ -29,7 +29,7 @@ To test the starting-kit, run
 
 
 ```
-ramp_test_submission
+ramp_test_submission --submission starting_kit
 ```
 
 
