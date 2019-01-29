@@ -3,7 +3,10 @@
 
 _Authors: Philippe Burgelin, Côme Cothenet, Gauthier Perrod, Manuel Pichon_
 
-Decrire ici les copains
+The goal of this challenge is to find ways to predict which would be the best beer to to suggest to an user of the recommandation system.
+A good exemple could be Spotify we could citate spotify which dethroned Deezer into music streaming partly thanks to its recommender system.
+
+
 
 <img src="https://timedotcom.files.wordpress.com/2018/04/national-beer-day-ipa.jpg" alt="Drawing" style="width: 700px;"/>
 
