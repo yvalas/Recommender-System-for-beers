@@ -63,12 +63,12 @@ def _read_data(path, f_name):
 
 
 def get_train_data(path='.'):
-    f_name = 'train_mini.csv'
+    f_name = 'train.csv'
     return _read_data(path, f_name)
 
 
 def get_test_data(path='.'):
-    f_name = 'test_mini.csv'
+    f_name = 'test.csv'
     return _read_data(path, f_name)
 
 
