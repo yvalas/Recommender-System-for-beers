@@ -1,7 +1,7 @@
 # RAMP starting kit on Recommender System for beers
 
 
-_Authors: Philippe Burgelin, Côme Cothenet, Gauthier Perrod, Manuel Pichon
+_Authors: Philippe Burgelin, Côme Cothenet, Gauthier Perrod, Manuel Pichon_
 
 Decrire ici les copains
 
