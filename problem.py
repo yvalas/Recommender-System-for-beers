@@ -41,7 +41,7 @@ class Res(BaseScoreType):
         self.precision = precision
 
     def __call__(self, y_true, y_pred):
-        return np.mean(np.abs(y_true[:, 0] - y_pred[:, 0])) + np.mean(np.abs(y_true[:, 1] - y_pred[:, 0]))
+        return np.mean(np.abs(y_true[:, 0] - y_pred[:, 0])) / np.mean(np.abs(y_true[:, 1] - y_pred[:, 0]))
 
 
 
